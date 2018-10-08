@@ -1,0 +1,160 @@
+body {
+    font-family: 'Myriad Pro', sans-serif;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.top_link {
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    font-size: 80px;
+    font-weight: 400;
+    margin-top: 61px;
+    margin-bottom: 45px;
+}
+
+.color_blue {
+    color: #4bcaff;
+}
+
+.top_menu li {
+    float: left;
+    background-color: #35444f;
+    padding-top: 26px;
+    padding-bottom: 21px;
+    padding-left: 41px;
+    padding-right: 41px;
+
+
+}
+
+.top_menu a {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.top_menu li:hover {
+    background-color: #222f3a;
+    border-right: 1px solid #818181;
+    border-left: 1px solid #818181;
+}
+
+.padding_left {
+    padding-left: 157px;
+}
+
+.padding_right {
+    padding-right: 153px;
+}
+
+
+.side_menu {
+    width: 344px;
+    height: 399px;
+    border: 1px solid #32424e;
+    display: inline-block;
+    margin-top: 51px;
+
+}
+
+.side_menu li {
+    padding: 27px 0 27px 44px;
+}
+
+.side_menu a {
+
+    text-decoration: none;
+    color: #000000;
+    font-size: 26.99px;
+    font-weight: 400;
+}
+
+.side_menu li:hover {
+background-color: #dcdcdc;
+   padding-left: 69px;
+    color: black;
+    
+}
+
+.horse {
+    display: inline-block;
+    width: 885px;
+    height: 529px;
+    border: 1px solid #32424e;
+    float: right;
+    margin-top: 51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.text-content {
+    clear: both;
+}
+
+
+.text_first {
+    display: inline-block;
+    margin-top: 51px;
+    color: #2c2b2b;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 430px;
+    padding-right: 41px;
+
+}
+
+.text_second {
+    margin-top: 30px;
+    color: #2c2b2b;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 430px;
+    padding-right: 41px;
+}
+
+.bottom_menu li {
+    float: left;
+    padding-bottom: 21px;
+    padding-top: 22px;
+    padding-right: 26px;
+    background-color: #b5b8bb;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.bottom_menu a {
+    color: #0c1927;
+    text-decoration: none;
+}
+
+.copyright {
+    padding-left: 182px;
+    font-size: 24px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+.padding_left_bottom {
+    padding-left: 44px;
+}
+
+.bottom_menu {
+    display: inline-block;
+    margin-top: 51px;
+    margin-bottom: 31px;
+}
+
+.bottom_menu li a:hover {
+    color: #3181a6;
+    text-decoration: underline;
+}
